@@ -50,7 +50,4 @@ Online KMS         -  Windows / Server / Office  -  For 180 Days, renewal task n
 
 <hr />
 
-For any queries feel free to mail me at, windowsaddict@protonmail.com
 
-
-Made with Love ❤️
