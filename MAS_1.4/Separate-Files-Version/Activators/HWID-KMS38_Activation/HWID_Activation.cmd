@@ -676,7 +676,7 @@ for %%# in (
 164-ProfessionalEducation
 165-ProfessionalEducationN
 175-ServerRdsh
-188-IoTEnterprise
+191-IoTEnterprise
 ) do for /f "tokens=1,2 delims=-" %%A in ("%%#") do (
 if %osSKU%==%%A set "osedition=%%B"
 )
@@ -759,7 +759,7 @@ set "key=NJCF7-PW8QT-3324D-688JX-2YV66"
 exit /b
 
 :IoTEnterprise
-set "key=XQQYW-NFFMW-XJPBH-K8732-CKFFD"
+set "key=QPM6N-7J2WJ-P88HH-P3YRH-YY74H"
 exit /b
 
 ::========================================================================================================================================
